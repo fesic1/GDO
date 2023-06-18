@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "2259931e318fc21d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c9aefceaa0c4c6d",
+        "type": "tabs",
+        "dimension": 53.51906158357772,
+        "children": [
+          {
+            "id": "87a9d0963a889500",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи/Майкл.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "75ea52317d9e6fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Навыки/Поиск слабостей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2019ffe5902d4013",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Навыки/Облик владыки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f379c0da4aaa3bb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Навыки/Облик владыки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "c1ffa6a4512e4eae",
+        "type": "tabs",
+        "dimension": 46.48093841642228,
+        "children": [
+          {
+            "id": "426fe12d2549bf09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Навыки/Облик владыки.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25137e9d05cd6d13",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fe7dcdaa8f485c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da20e43393d9cb1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "faead540d58bab61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae2d53526ea9aca2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "e507fef6449b9b8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec494f8e9a86bdc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c15288980f062091",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Навыки/Облик владыки.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3587d97ca3780510",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Навыки/Облик владыки.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbb70ef512beec1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b84e88a7a7af914",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Навыки/Облик владыки.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "f379c0da4aaa3bb3",
+  "lastOpenFiles": [
+    "Персонажи/Майкл.md",
+    "Навыки/Поиск слабостей.md",
+    "Навыки/Облик владыки.md",
+    "Навыки/Иллюзорный образ.md",
+    "Навыки/Разрез.md",
+    "Навыки/Очарование.md",
+    "Персонажи/Карвин.md",
+    "Предметы/Трость с скрытой рапирой.md",
+    "Достижения/Повелитель арены II.md",
+    "Предметы/Очаровательная Пипа.md",
+    "Навыки/Выстрел.md",
+    "Навыки/Провокация.md",
+    "Навыки/Настрой.md",
+    "Навыки/Форма первого чемпиона.md",
+    "Навыки/Чтение гримуаров.md",
+    "Предметы/Оружие/Меч пути Сохранения.md",
+    "Артики",
+    "Навыки/Истинный владыка.md",
+    "Персонажи/Августуст Магнификус II.md",
+    "Ковены",
+    "Расы/Человек.md",
+    "Предметы/Гримуар начинающего мага.md",
+    "Предметы/Приглашение в чайную лавку миссис Тиа.md",
+    "Предметы/Камень смерти королей.md",
+    "Навыки/Приказ.md",
+    "Достижения/Повелитель арены.md",
+    "Достижения/Демон похоти.md",
+    "Предметы/Бижутерия/Амулет Рорича.md",
+    "Предметы/Бижутерия",
+    "Персонажи",
+    "Предметы/Другое",
+    "Предметы/Оружие",
+    "Расы",
+    "Достижения",
+    "Предметы/Кольца",
+    "Предметы"
+  ]
+}
